@@ -123,6 +123,10 @@ body {
     border-radius: 15px;
 }
 
+.box12 {
+    text-align: center;
+}
+
 .section5 {
     display: flex;
     height: 260px;
@@ -149,4 +153,61 @@ body {
     font-size: 26px;
     padding-left: 300px;
     align-items: flex-end;
+}
+
+.section6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 230px;
+    background-color: hsl(0deg 0% 100%);
+    
+
+}
+
+.boxa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 800px;
+    background-color: hsl(217deg 91% 60%);
+    border-radius: 8px;
+}
+
+.text1 {
+    width: 550px;
+    color: #e5e7eb;
+    margin: 0%;
+}
+
+.text1111 {
+    margin: 0%;
+}
+
+.text11 {
+    margin: 0%;
+    font-weight: bolder;
+}
+
+.button2 {
+    border-radius: 8px;
+    background-color: hsl(217deg 91% 60%);
+    color: #e5e7eb;
+    border: 1px solid white;
+    width: 80px;
+    height: 20px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 76px;
+    background-color: #1f2937;
+
+}
+
+.copy {
+    color: #e5e7eb;
 }

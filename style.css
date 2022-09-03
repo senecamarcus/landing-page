@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.section1{
+    height: 50px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+
+.logo {
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #f9faf8;
+    margin: 0;
+}
+
+
+.header1 {
+
+}
+
+.nav-list {
+    font-size: 18px;
+   color: #e5e7eb;
+   display: flex;
+   justify-content:right;
+   gap: 20px;
+
+   list-style-type: none;
+
+  

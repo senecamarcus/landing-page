@@ -34,5 +34,54 @@ body {
    gap: 20px;
 
    list-style-type: none;
+}
 
-  
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    height: 348px;
+    background-color: #1f2937;
+    margin: 0;
+}
+
+.box1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin: 0%;
+    width: 300px;
+}
+
+.box2 {
+    color: #e5e7eb;
+    font-size: 18px;
+    width: 300px;
+
+}
+
+.container22 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 400px;
+    background-color: hsl(214deg 7% 46%);
+   
+}
+
+.button1 {
+    background-color: hsl(218deg 92% 60%);
+    color: #e5e7eb;
+    border-radius: 16%;
+    width: 80px;
+    height: 30px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.vangogh1 {
+    width: 400px;
+    height: 200px;
+}
